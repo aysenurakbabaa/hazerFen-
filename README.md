@@ -79,4 +79,6 @@ Tamamlanması gereken puan: 160
 Tamamlanan puan: 160
 
 ## Ekran Görselleri (Screenshots)
-
+https://github.com/aysenurakbabaa/hazerFen-/raw/main/IMG_7131.png
+https://github.com/aysenurakbabaa/hazerFen-/raw/main/IMG_7135.png
+https://github.com/aysenurakbabaa/hazerFen-/raw/main/IMG_7147.png
